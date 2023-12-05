@@ -18,10 +18,16 @@ const Main = () => {
           <h1 className="py-4 text-gray-700">
             Hi, I&#39;m <span className="text-[#5651e5]"> Uday Balram</span>
           </h1>
-          <h1 className="py-2 text-gray-700">A Front-End Web Developer</h1>
+          <h1 className="py-2 text-gray-700">
+            An Experienced Front-End Web Developer
+          </h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
-            I’m focused on building responsive front-end web applications
-            integrating back-end technologies.
+            I possess 2.7 years of dedicated experience in crafting responsive
+            front-end web applications seamlessly integrated with robust
+            back-end technologies. My expertise lies in creating user-friendly
+            and visually appealing interfaces that not only meet design
+            specifications but also ensure optimal performance across various
+            devices.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a

@@ -13,12 +13,12 @@ const Projects = () => {
         <h2 className="py-4">What I&apos;ve Built</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem
-            title="Youtube-clone"
-            backgroundImg="https://res.cloudinary.com/drjnmxyd5/image/upload/v1681388294/React_App_8_mab1fx.png"
-            projectUrl="https://youtube-clone-bay-kappa.vercel.app/"
+            title="Dynamic-Form"
+            backgroundImg="https://res.cloudinary.com/drjnmxyd5/image/upload/v1701767334/Screenshot_2023-12-05_143555_eglh4b.png"
+            projectUrl="https://dynamicform-rho.vercel.app/uday"
             tech="React JS"
           />
-          <ProjectItem
+          {/* <ProjectItem
             title="Ecommerce-clone"
             backgroundImg="https://res.cloudinary.com/drjnmxyd5/image/upload/v1681390071/React_App_9_kdwxjt.png"
             projectUrl="https://next-trend.vercel.app/"
@@ -35,7 +35,7 @@ const Projects = () => {
             backgroundImg="https://res.cloudinary.com/drjnmxyd5/image/upload/v1681388274/Insta_Share_mdbjry.png"
             projectUrl="https://instashare.vercel.app/"
             tech="React JS"
-          />
+          /> */}
         </div>
       </div>
     </div>
